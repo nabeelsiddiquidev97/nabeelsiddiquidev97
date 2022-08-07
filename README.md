@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in open-source and 💞️ love to collaborate for open-source since i've learned a lot from the open-source community...
 
-- 🌱 I’m currently learning to be the better and the best version of myself. I'm learning how to be more caring for the loved ones. Im learning to be more helpful and to provide more to others or to be the psoitive source for others. And yeah on the technical side Im looking forward to learn MERN, Azure, Oracle etc.
+- 🌱 I’m currently learning to be the better and the best version of myself. I'm learning how to be more caring for the loved ones. Im learning to be more helpful and to provide more to others or to be the positive source for others. And yeah on the technical side Im looking forward to learn MERN, Azure, Oracle etc.
 <br>
 
 
