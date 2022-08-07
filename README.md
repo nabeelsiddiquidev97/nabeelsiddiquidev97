@@ -48,7 +48,7 @@
 
   <br/>
   <p align="center">
-	<a href="https://github.com/nabeelsiddiquidev97/github-readme-stats"><img alt="Nabeel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nabeelsiddiquidev97&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/nabeelsiddiquidev97"><img alt="Nabeel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nabeelsiddiquidev97&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeelsiddiquidev97&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nabeelsiddiquidev97" height="192px"/>
