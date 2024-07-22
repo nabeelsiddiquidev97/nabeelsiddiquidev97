@@ -51,7 +51,7 @@
 	<a href="https://github.com/nabeelsiddiquidev97?tab=repositories"><img alt="Nabeel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nabeelsiddiquidev97&include_all_commits=true&show_icons=true&count_private=false&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsiddiquidev97&langs_count=10&include_all_commits=true&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nabeelsiddiquidev97" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsiddiquidev97&langs_count=10" alt="nabeelsiddiquidev97" height="192px"/>
   <br/>
   </p>
 
